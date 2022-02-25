@@ -1,0 +1,10 @@
+C:\MobileApps\Mobile\DAL3\bin\Debug\netstandard2.0\DAL3.deps.json
+C:\MobileApps\Mobile\DAL3\bin\Debug\netstandard2.0\DAL3.dll
+C:\MobileApps\Mobile\DAL3\bin\Debug\netstandard2.0\DAL3.pdb
+C:\MobileApps\Mobile\DAL3\obj\Debug\netstandard2.0\DAL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\MobileApps\Mobile\DAL3\obj\Debug\netstandard2.0\DAL3.AssemblyInfoInputs.cache
+C:\MobileApps\Mobile\DAL3\obj\Debug\netstandard2.0\DAL3.AssemblyInfo.cs
+C:\MobileApps\Mobile\DAL3\obj\Debug\netstandard2.0\DAL3.csproj.CoreCompileInputs.cache
+C:\MobileApps\Mobile\DAL3\obj\Debug\netstandard2.0\DAL3.dll
+C:\MobileApps\Mobile\DAL3\obj\Debug\netstandard2.0\DAL3.pdb
+C:\MobileApps\Mobile\DAL3\obj\Debug\netstandard2.0\DAL3.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QcR/JXaedmwCAqy2rPtRPyfuI4hELnY+InTnt7DnlGcjxSJfG0TTrs7y7/Hy3482zVdCIRVliYJC0p0pvEm9cA==",
+  "success": true,
+  "projectFilePath": "C:\\MobileApps\\Mobile\\DAL3\\DAL3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almaz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\almaz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
